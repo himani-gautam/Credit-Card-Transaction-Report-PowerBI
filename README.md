@@ -1,4 +1,4 @@
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/1da93568-ab41-45d8-8f0c-2e6ef09514f4" /># Credit-Card-Transaction-Report-PowerBI
+
 Power BI dashboard analyzing credit card transactions, revenue growth, and customer insights.
 # Credit Card Transaction & Customer Analysis Dashboard
 
